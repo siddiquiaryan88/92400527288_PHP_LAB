@@ -1,5 +1,4 @@
-<?php
-// Get current month number (1 to 12)
+<?php)
 $month = date("n");
 
 echo "<h3>Using if...else</h3>";
